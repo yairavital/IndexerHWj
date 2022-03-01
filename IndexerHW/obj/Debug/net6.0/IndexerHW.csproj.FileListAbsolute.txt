@@ -1,0 +1,15 @@
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\bin\Debug\net6.0\IndexerHW.exe
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\bin\Debug\net6.0\IndexerHW.deps.json
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\bin\Debug\net6.0\IndexerHW.runtimeconfig.json
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\bin\Debug\net6.0\IndexerHW.dll
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\bin\Debug\net6.0\ref\IndexerHW.dll
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\bin\Debug\net6.0\IndexerHW.pdb
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\obj\Debug\net6.0\IndexerHW.csproj.AssemblyReference.cache
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\obj\Debug\net6.0\IndexerHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\obj\Debug\net6.0\IndexerHW.AssemblyInfoInputs.cache
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\obj\Debug\net6.0\IndexerHW.AssemblyInfo.cs
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\obj\Debug\net6.0\IndexerHW.csproj.CoreCompileInputs.cache
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\obj\Debug\net6.0\IndexerHW.dll
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\obj\Debug\net6.0\ref\IndexerHW.dll
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\obj\Debug\net6.0\IndexerHW.pdb
+C:\Users\yaira\source\repos\WinFormCalculator\IndexerHW\obj\Debug\net6.0\IndexerHW.genruntimeconfig.cache
